@@ -1,0 +1,18 @@
+body{
+  color: aqua;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdeKB7D5b0GEERCkAG2qJkiDAA3EhKJ1fmfZfqk0l0lU4sSxieT8leBzdwub3DT3RAdsE&usqp=CAU");
+}
+h1, h2{
+  font-family: 'Tangerine';
+  text-align: center;
+}
+#surf ul{
+  list-style-type: none;
+}
+#surf li{
+  display:inline;
+}
+#surf a{
+  margin-left:25%;
+  margin-right:25%;
+}
